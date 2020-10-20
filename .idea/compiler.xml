@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ecm-api-create-folder" />
+        <module name="ecm-api-apply-metadata" />
+        <module name="ecm-api-delete-document" />
+        <module name="ecm-api-upload-file" />
+        <module name="ecm-api-download-file" />
+        <module name="ecm-api-commons" />
+        <module name="ecm-api-update-metadata" />
+        <module name="ecm-api-upload-large-file" />
+        <module name="ecm-api-search" />
+        <module name="ecm-api-view-document" />
+        <module name="ecm-api-metadata" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ecm-api-apply-metadata" target="1.8" />
+      <module name="ecm-api-bom" target="1.8" />
+      <module name="ecm-api-commons" target="1.8" />
+      <module name="ecm-api-create-folder" target="1.8" />
+      <module name="ecm-api-delete-document" target="1.8" />
+      <module name="ecm-api-download-file" target="1.8" />
+      <module name="ecm-api-metadata" target="1.8" />
+      <module name="ecm-api-search" target="1.8" />
+      <module name="ecm-api-update-metadata" target="1.8" />
+      <module name="ecm-api-upload-file" target="1.8" />
+      <module name="ecm-api-upload-large-file" target="1.8" />
+      <module name="ecm-api-view-document" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ecm-api-apply-metadata" options="-parameters" />
+      <module name="ecm-api-commons" options="-parameters" />
+      <module name="ecm-api-create-folder" options="-parameters" />
+      <module name="ecm-api-delete-document" options="-parameters" />
+      <module name="ecm-api-download-file" options="-parameters" />
+      <module name="ecm-api-metadata" options="-parameters" />
+      <module name="ecm-api-search" options="-parameters" />
+      <module name="ecm-api-update-metadata" options="-parameters" />
+      <module name="ecm-api-upload-file" options="-parameters" />
+      <module name="ecm-api-upload-large-file" options="-parameters" />
+      <module name="ecm-api-view-document" options="-parameters" />
+    </option>
+  </component>
+</project>

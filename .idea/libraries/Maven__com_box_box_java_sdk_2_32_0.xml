@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.box:box-java-sdk:2.32.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/box/box-java-sdk/2.32.0/box-java-sdk-2.32.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/box/box-java-sdk/2.32.0/box-java-sdk-2.32.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/box/box-java-sdk/2.32.0/box-java-sdk-2.32.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

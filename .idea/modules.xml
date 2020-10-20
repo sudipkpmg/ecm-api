@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ecm-api-apply-metadata/ecm-api-apply-metadata.iml" filepath="$PROJECT_DIR$/ecm-api-apply-metadata/ecm-api-apply-metadata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecm-api-bom/ecm-api-bom.iml" filepath="$PROJECT_DIR$/ecm-api-bom/ecm-api-bom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecm-api-commons/ecm-api-commons.iml" filepath="$PROJECT_DIR$/ecm-api-commons/ecm-api-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecm-api-create-folder/ecm-api-create-folder.iml" filepath="$PROJECT_DIR$/ecm-api-create-folder/ecm-api-create-folder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecm-api-delete-document/ecm-api-delete-document.iml" filepath="$PROJECT_DIR$/ecm-api-delete-document/ecm-api-delete-document.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecm-api-download-file/ecm-api-download-file.iml" filepath="$PROJECT_DIR$/ecm-api-download-file/ecm-api-download-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecm-api-metadata/ecm-api-metadata.iml" filepath="$PROJECT_DIR$/ecm-api-metadata/ecm-api-metadata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecm-api-search/ecm-api-search.iml" filepath="$PROJECT_DIR$/ecm-api-search/ecm-api-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecm-api-update-metadata/ecm-api-update-metadata.iml" filepath="$PROJECT_DIR$/ecm-api-update-metadata/ecm-api-update-metadata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecm-api-upload-file/ecm-api-upload-file.iml" filepath="$PROJECT_DIR$/ecm-api-upload-file/ecm-api-upload-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecm-api-upload-large-file/ecm-api-upload-large-file.iml" filepath="$PROJECT_DIR$/ecm-api-upload-large-file/ecm-api-upload-large-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecm-api-view-document/ecm-api-view-document.iml" filepath="$PROJECT_DIR$/ecm-api-view-document/ecm-api-view-document.iml" />
+    </modules>
+  </component>
+</project>
